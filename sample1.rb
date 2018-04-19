@@ -3,4 +3,5 @@ def sample1
 end
 
 def second_method
+
 end
